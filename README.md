@@ -2,7 +2,6 @@
 
 ```
 packages/hardhat/contracts/A.sol
-
 ```
 
 ## Code for Part 2 is at below path
